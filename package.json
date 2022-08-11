@@ -1,0 +1,16 @@
+{
+  "name": "finanzeroplugin",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "Finanzero Plugin",
+    "description": ""
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Barbosa",
+  "license": "ISC",
+  "description": ""
+}
