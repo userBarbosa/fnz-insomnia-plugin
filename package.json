@@ -1,0 +1,19 @@
+{
+  "name": "finanzeroplugin",
+  "version": "0.0.2",
+  "private": true,
+  "insomnia": {
+    "name": "Finanzero Plugin",
+    "description": ""
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marcos Barbosa",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
